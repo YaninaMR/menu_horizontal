@@ -1,4 +1,4 @@
-
+/*estilo de tiografía , letra a todo el contenido*/
 body{
   font-family: sans-serif;
 
@@ -14,7 +14,7 @@ ul{
   overflow: auto;
   
 }
-
+/*propiedad float para que siga el flujo uno a la izquierda de otro*/
 li{
   
   width: 100px;
@@ -23,13 +23,13 @@ li{
   float: left;
 
 }
-
+/*convertir a bloque el inline a*/
 a{
   text-decoration: none; 
   display: block;
   color: #fff;
  }
-
+/*a pasar el mouse mostrar el estilo nuevo de las letras y color*/
 a:hover{
  background: #f9a91a;
  color: #000;
