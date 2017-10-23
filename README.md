@@ -6,7 +6,7 @@
 
 ![menu_vertical](/assets/docs/img/mh.png)
 
-> #### Maneras de Estilo:
+> #### Formas de Estilo en css:
 > 
 > 1. Propiedad display:block y display:inline-block
-> 2. Proiedad float:left y overflow:auto
+> 2. Propiedad float:left y overflow:auto
